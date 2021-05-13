@@ -1,4 +1,4 @@
-[![MC Technology](doc/mctechnology_extendido.GIF)](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
+[![MC Technology](doc/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 # MC Technology
 Redes | [Reddit](https://www.reddit.com/user/mctechnology17), [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber), [Facebook](https://m.facebook.com/mctechnology17/), [Twitter](https://twitter.com/mctechnology17), [Instagram](https://www.instagram.com/mctechnology17/), [Twitch](https://www.twitch.tv/mctechnology17), [TikTok](https://www.tiktok.com/@mctechnology17), [Telegram](https://t.me/mctechnology)
 ------|-----
