@@ -3,7 +3,7 @@
   <br> <h1> 🇳🇮  MC Technology 🇩🇪  </h1>
 </div>
 <h4 align="left">
-  <p> Redes ☞ </p>
+  <p> Redes 📲 </p>
 </h4>
 <h4 align="center">
   <a href="https://twitter.com/mctechnology17" target="_blank"><code>Twitter</code></a>
@@ -16,7 +16,7 @@
   <a href="https://www.reddit.com/user/mctechnology17" target="_blank"><code>Reddit</code></a>
 </h4>
 <h4 align="left">
-  <p> Proyectos ☞ </p>
+  <p> Proyectos 👉 </p>
 </h4>
 <h4 align="center">
   <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
