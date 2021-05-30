@@ -16,6 +16,7 @@
 <h4 align="center">
   <a>Last projects 👉</a>
   <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
+  <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
   <a href="https://mctechnology17.com" target="_blank"><code>WEB</code></a>
   <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a>
   <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a>
