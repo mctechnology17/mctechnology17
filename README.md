@@ -46,9 +46,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mctechnology17)
+  [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 </details>
+
+[![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mctechnology17)
+
 
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
