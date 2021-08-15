@@ -14,6 +14,7 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
+---
 
 ### 📲 Connect with me:
 
@@ -85,10 +86,14 @@
 <table>
 <tr>
 <td>
+
 [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
+
 </td>
 <td>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&theme=radical)](https://github.com/mctechnology17)
+
 </td>
 </tr>
 </table>
