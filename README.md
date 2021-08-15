@@ -12,17 +12,19 @@
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
-</details> |
+</details>
 
-[<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
-[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
-[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+<div align="center">
+  <br> [<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
+  [<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+  [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+  [<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+  [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+  [<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
+  [<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
+  [<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
+  [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+</div>
 
 <br />
 
