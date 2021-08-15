@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary>:zap: Last projects</summary>
+  <summary>:zap: Click here to see my latest projects</summary>
 <h4 align="left">
   <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a>
   <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
@@ -52,6 +52,12 @@
 
 [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact)](https://github.com/mctechnology17)
+
+
+---
 
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
