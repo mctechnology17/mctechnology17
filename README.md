@@ -3,7 +3,7 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
 
-<table>
+<table align="center" >
 <tr>
 <td>
 
@@ -33,9 +33,6 @@
 </td>
 </tr>
 </table>
-
-
-<br />
 
 ---
 
