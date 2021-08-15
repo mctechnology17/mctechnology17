@@ -8,7 +8,7 @@
 <td>
 
 <details>
-  <summary>:zap: <h4 align="left"> <a target="_blank"><code>About me</code></a> </h4></summary>
+  <summary><h4 align="left"> <a target="_blank"><code>About me</code></a> </h4></summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
 - 🦾 I love the PowerLifting!
