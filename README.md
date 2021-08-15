@@ -48,8 +48,16 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+  <summary>:zap: Last projects</summary>
+<h4 align="left">
+  <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
+  <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
+  <a href="https://mctechnology17.com" target="_blank"><code>WEB</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
+  <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
+</h4>
 
 </details>
 
