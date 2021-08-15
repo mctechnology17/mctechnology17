@@ -4,7 +4,7 @@
 </div>
 
 <details>
-  <summary>:zap: About me [Click hier]</summary>
+  <summary>:zap: About me!</summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
 - 🦾 I love the PowerLifting!
@@ -13,7 +13,7 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
-<table align="center" >
+<table align="right" >
 <tr>
 <td>
 
