@@ -1,17 +1,19 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 <div align="center">
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
-  <details>
-    <summary>:zap: About me</summary>
-    <align="left">
-
-### Bioanalyst Clinico and I am currently studying a Master in Bioinformatic!!
-- I love the PowerLifting!
-- I’m currently learning everything
-- I am very curious and that is why you start studying programming
-- I am currently very obsected with learning vimscript
-  </details>
 </div>
+
+<details>
+  <summary>:zap: About me</summary>
+  <align="left">
+
+### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+- 🦾 I love the PowerLifting!
+- 🤓  I’m currently learning everything
+- 👾  I am very curious and that is why you start studying programming
+- 🗒  I am currently very obsected with learning vimscript
+</details>
+
 
 ### 📲 Connect with me:
 
@@ -83,14 +85,10 @@
 <table>
 <tr>
 <td>
-
 [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
-
 </td>
 <td>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&theme=radical)](https://github.com/mctechnology17)
-
 </td>
 </tr>
 </table>
