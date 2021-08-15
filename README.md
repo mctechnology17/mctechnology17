@@ -147,17 +147,6 @@
 
 ---
 
-### 🤓 GitHub Activity
-<details>
-  <summary>:zap: Click here to see my recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
