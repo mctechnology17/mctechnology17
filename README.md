@@ -39,6 +39,8 @@
 [<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
 
 </td>
+</tr>
+<tr>
 <td>
 
 <h4 align="left">
@@ -51,6 +53,8 @@
 [<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
 
 </td>
+</tr>
+<tr>
 <td>
 
 <h4 align="left">
@@ -63,6 +67,8 @@
 [<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
 
 </td>
+</tr>
+<tr>
 <td>
 
 <h4 align="left">
@@ -75,6 +81,8 @@
 [<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
 
 </td>
+</tr>
+<tr>
 <td>
 
 <h4 align="left">
@@ -87,6 +95,8 @@
 [<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge]
 
 </td>
+</tr>
+<tr>
 <td>
 
 <h4 align="left">
