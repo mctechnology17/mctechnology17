@@ -31,6 +31,7 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
+
 ---
 
 ### 📕 Latest Projects
