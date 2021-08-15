@@ -3,14 +3,13 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
   <details>
     <summary>:zap: About me</summary>
+    <align="left">
 
 ### Bioanalyst Clinico and I am currently studying a Master in Bioinformatic!!
-
 - I love the PowerLifting!
 - I’m currently learning everything
 - I am very curious and that is why you start studying programming
 - I am currently very obsected with learning vimscript
-
   </details>
 </div>
 
@@ -34,90 +33,31 @@
 
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
+
 <table>
 <tr>
-<td>
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools] </td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4> </td>
 </tr>
 <tr>
-<td>
-
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo] </td>
+<td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4> </td>
 </tr>
 <tr>
-<td>
-
-[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch] </td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4> </td>
 </tr>
 <tr>
-<td>
-
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches] </td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4> </td>
 </tr>
 <tr>
-<td>
-
-[<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge] </td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4> </td>
 </tr>
 <tr>
-<td>
-
-[<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
-
-</td>
-<td>
-
-<h4 align="left">
-  <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
-</h4>
-
-</td>
+<td> [<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo] </td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4> </td>
 </tr>
 </table>
 
