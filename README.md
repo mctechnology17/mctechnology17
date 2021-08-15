@@ -3,7 +3,7 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
 
-### Connect with me:
+### 📲 Connect with me:
 
 [<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
 [<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
@@ -20,12 +20,12 @@
 ---
 
 ### 📕 Latest Projects
-[<img align="left" alt="vimtools | VimTools" width="26px" src="./src/vim.png" />][vimtools]
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="26px" src="./src/cydia7.png" />][jailbreakrepo]
-[<img align="left" alt="uiswitch | UI Glitch" width="26px" src="./src/uiglitch.png" />][uiglitch]
-[<img align="left" alt="uiswitches | UI Switches" width="26px" src="./src/uiswitches.png" />][uiswitches]
-[<img align="left" alt="uibadge | UI Babge" width="26px" src="./src/uibadge.png" />][uibadge]
-[<img align="left" alt="youtuberepo | YouTube Repo" width="22px" src="./src/youtube_alternativ.png" />][youtuberepo]
+[<img align="left" alt="vimtools | VimTools" width="40px" src="./src/vim.png" />][vimtools]
+[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="40px" src="./src/cydia7.png" />][jailbreakrepo]
+[<img align="left" alt="uiswitch | UI Glitch" width="40px" src="./src/uiglitch.png" />][uiglitch]
+[<img align="left" alt="uiswitches | UI Switches" width="40px" src="./src/uiswitches.png" />][uiswitches]
+[<img align="left" alt="uibadge | UI Babge" width="40px" src="./src/uibadge.png" />][uibadge]
+[<img align="left" alt="youtuberepo | YouTube Repo" width="40px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
 <br />
 ---
