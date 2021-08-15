@@ -41,7 +41,7 @@
   <summary>:zap: Click here to see my latest projects</summary>
 
 - <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  - <details>
+    <details>
       <summary>:zap: see more</summary>
 
       `vimtools` is a tool to complement your editor
