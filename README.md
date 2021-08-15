@@ -3,7 +3,11 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
 
-<details align="left">
+<table>
+<tr>
+<td>
+
+<details>
   <summary>:zap: About me</summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
@@ -12,6 +16,9 @@
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
 </details>
+
+</td>
+<td>
 
 [<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
 [<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
@@ -22,6 +29,11 @@
 [<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
 [<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+
+</td>
+</tr>
+</table>
+
 
 <br />
 
