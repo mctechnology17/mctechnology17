@@ -5,10 +5,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MC Technology.com" width="22px" src="./src/icon_web.png" />][website]
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/icon_youtube.png" />][youtube]
-[<img align="left" alt="@mcechnology17 | Twitter" width="22px" src="./src/icon_twitter.png" />][twitter]
-[<img align="left" alt="@mcechnology17 | Instagram" width="22px" src="./src/icon_instagram.png" />][instagram]
+[<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
+[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
+[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
 
 <br />
 
@@ -27,3 +30,6 @@
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
 [instagram]: https://www.instagram.com/mctechnology17/
+[twitch]: https://www.twitch.tv/mctechnology17
+[tiktok]: https://www.tiktok.com/@mctechnology17
+[facebook]: https://m.facebook.com/mctechnology17/
