@@ -3,10 +3,6 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
 
-<table align="center" >
-<tr>
-<td>
-
 <details>
   <summary>:zap: About me [Click hier]</summary>
 
@@ -17,7 +13,8 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
-</td>
+<table align="center" >
+<tr>
 <td>
 
 [<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
