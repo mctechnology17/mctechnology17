@@ -46,8 +46,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mctechnology17's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mctechnology17&show_icons=true&hide_border=true" />
+  [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mctechnology17)
 
 </details>
 
