@@ -19,13 +19,20 @@
 
 ---
 
-### 📕 Latest Projects
-[<img align="left" alt="vimtools | VimTools" width="40px" src="./src/vim.png" />][vimtools]
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="40px" src="./src/cydia7.png" />][jailbreakrepo]
-[<img align="left" alt="uiswitch | UI Glitch" width="40px" src="./src/uiglitch.png" />][uiglitch]
-[<img align="left" alt="uiswitches | UI Switches" width="40px" src="./src/uiswitches.png" />][uiswitches]
-[<img align="left" alt="uibadge | UI Babge" width="40px" src="./src/uibadge.png" />][uibadge]
-[<img align="left" alt="youtuberepo | YouTube Repo" width="40px" src="./src/youtube_alternativ.png" />][youtuberepo]
+</details>
+
+<details>
+  <summary>:zap: Last projects</summary>
+<h4 align="left">
+  <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a>
+  <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a>
+  <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
+  <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
+</h4>
+
+</details>
 
 <br />
 <br />
@@ -44,22 +51,6 @@
 
 
 ---
-
-</details>
-
-<details>
-  <summary>:zap: Last projects</summary>
-<h4 align="left">
-  <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
-  <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
-  <a href="https://mctechnology17.com" target="_blank"><code>WEB</code></a>
-  <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a>
-  <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a>
-  <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
-  <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
-</h4>
-
-</details>
 
 [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
 
