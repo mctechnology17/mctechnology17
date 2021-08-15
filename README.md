@@ -32,6 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
+- [Instalar HomeBrew en MacOS | MC Technology](https://www.youtube.com/watch?v=eLCvV_-i8QE)
+- [UI Glitch the best animated theme for iOS | MC Technology](https://www.youtube.com/watch?v=rHfMTch21zE)
+- [Teclado con 10,000 Emojis GRATIS](https://www.youtube.com/watch?v=4ekjNF4AArE)
+- [INSTALA DEB CON FILZA en iOS 13.x.x con Checkra1n o Unc0ver](https://www.youtube.com/watch?v=eduu_qCATDY)
 <!-- YOUTUBE:END -->
 
 
