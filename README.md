@@ -110,23 +110,6 @@
 
 ---
 
-<table>
-<tr>
-<td>
-
-[![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&theme=radical)](https://github.com/mctechnology17)
-
-</td>
-</tr>
-</table>
-
----
-
 <div>
   <a href="https://github.com/mctechnology17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
