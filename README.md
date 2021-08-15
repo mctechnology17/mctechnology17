@@ -50,7 +50,7 @@
 
 </details>
 
-[![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17)](https://github.com/mctechnology17)
+[![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
 
 
 [website]: https://mctechnology17.com
