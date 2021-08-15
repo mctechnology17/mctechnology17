@@ -17,6 +17,8 @@
 
 <br />
 
+---
+
 <h4 align="left">
   <a>Last projects 👉</a>
   <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
@@ -27,6 +29,13 @@
   <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
   <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
 </h4>
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
