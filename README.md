@@ -1,18 +1,17 @@
-[![MC Technology](doc/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 <div align="center">
-  <br> <h1> 🇳🇮  MC Technology 🇩🇪  </h1>
+  <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
-<h4 align="left">
-  <a>Social media 📲</a>
-  <a href="https://twitter.com/mctechnology17" target="_blank"><code>Twitter</code></a>
-  <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber" target="_blank"><code>YouTube</code></a>
-  <a href="https://m.facebook.com/mctechnology17/" target="_blank"><code>FaceBook</code></a>
-  <a href="https://www.instagram.com/mctechnology17/" target="_blank"><code>Instagram</code></a>
-  <a href="https://www.twitch.tv/mctechnology17" target="_blank"><code>Twitch</code></a>
-  <a href="https://www.tiktok.com/@mctechnology17" target="_blank"><code>TikTok</code></a>
-  <a href="https://t.me/mctechnology" target="_blank"><code>TikTok</code></a>
-  <a href="https://www.reddit.com/user/mctechnology17" target="_blank"><code>Reddit</code></a>
-</h4>
+
+### Connect with me:
+
+[<img align="left" alt="MC Technology.com" width="22px" src="./src/icon_web.png" />][website]
+[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/icon_youtube.png" />][youtube]
+[<img align="left" alt="@mcechnology17 | Twitter" width="22px" src="./src/icon_twitter.png" />][twitter]
+[<img align="left" alt="@mcechnology17 | Instagram" width="22px" src="./src/icon_instagram.png" />][instagram]
+
+<br />
+
 <h4 align="left">
   <a>Last projects 👉</a>
   <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
@@ -23,3 +22,8 @@
   <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a>
   <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a>
 </h4>
+
+[website]: https://mctechnology17.com
+[twitter]: https://twitter.com/mctechnology17
+[youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
+[instagram]: https://www.instagram.com/mctechnology17/
