@@ -23,6 +23,7 @@
 
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
+### 📕 Latest Projects
 <h4 align="left">
   <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a>
   <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a>
