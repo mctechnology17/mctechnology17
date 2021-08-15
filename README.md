@@ -42,7 +42,7 @@
 
 - <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       `vimtools` is a tool to complement your editor
       favorite text / code `vim, vi, nvim, Gvim or MacVim`.
@@ -50,14 +50,14 @@
     </details>
 - <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       A small contribution to the Jailbreaker community
 
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       UI Glitch is here!!!
       Give your iPhone a different look with UI Glitch. The UI family by MC Technology! Designed for UI lovers!
@@ -73,7 +73,7 @@
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       UI Switches
       Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
@@ -84,7 +84,7 @@
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       UI Badge + Badgemoji
       Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
@@ -103,7 +103,7 @@
     </details>
 - <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
     <details>
-      <summary>:zap: see more</summary>
+      <summary>:zap: see more...</summary>
 
       A nice repository to share my knowledge and help the development community on
       youtube with what I have learned so far. Contributions are also very welcome :D
