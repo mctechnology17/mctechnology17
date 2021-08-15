@@ -20,13 +20,14 @@
 ---
 
 ### 📕 Latest Projects
-[<img align="left" alt="vimtools | VimTools" width="22px" src="./src/vim.png" />][vimtools]
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="22px" src="./src/cydia7.png" />][jailbreakrepo]
-[<img align="left" alt="uiswitch | UI Glitch" width="22px" src="./src/uiglitch.png" />][uiglitch]
-[<img align="left" alt="uiswitches | UI Switches" width="22px" src="./src/uiswitches.png" />][uiswitches]
-[<img align="left" alt="uibadge | UI Babge" width="22px" src="./src/uibadge.png" />][uibadge]
+[<img align="left" alt="vimtools | VimTools" width="26px" src="./src/vim.png" />][vimtools]
+[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="26px" src="./src/cydia7.png" />][jailbreakrepo]
+[<img align="left" alt="uiswitch | UI Glitch" width="26px" src="./src/uiglitch.png" />][uiglitch]
+[<img align="left" alt="uiswitches | UI Switches" width="26px" src="./src/uiswitches.png" />][uiswitches]
+[<img align="left" alt="uibadge | UI Babge" width="26px" src="./src/uibadge.png" />][uibadge]
 [<img align="left" alt="youtuberepo | YouTube Repo" width="22px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
+<br />
 ---
 
 ### 📺 Latest YouTube Videos
