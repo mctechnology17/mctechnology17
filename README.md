@@ -12,6 +12,8 @@
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
 [<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
 [<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
+[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
+[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
 
 <br />
 
@@ -33,3 +35,5 @@
 [twitch]: https://www.twitch.tv/mctechnology17
 [tiktok]: https://www.tiktok.com/@mctechnology17
 [facebook]: https://m.facebook.com/mctechnology17/
+[telegram]: https://t.me/mctechnology
+[reddit]:https://www.reddit.com/user/mctechnology17
