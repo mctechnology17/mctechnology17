@@ -32,6 +32,7 @@
 </details>
 
 <br />
+
 ---
 
 ### 📕 Latest Projects
