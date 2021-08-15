@@ -8,7 +8,7 @@
 <td>
 
 <details>
-  <summary><h4 align="left"> <a target="_blank"><code>About me</code></a> </h4></summary>
+  <summary>:zap: About me [Click hier]</summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
 - 🦾 I love the PowerLifting!
