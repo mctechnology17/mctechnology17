@@ -41,7 +41,7 @@
   <summary>:zap: Click here to see my latest projects</summary>
 
 - <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <img align="right" alt="Rafa-yoda" src="./src/origin-1000.gif">
+  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1000.gif">
     <details>
       <summary>:zap: see more...</summary>
 
@@ -50,7 +50,7 @@
 
     </details>
 - <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
-  <img align="right" alt="Rafa-yoda" src="./src/origin-1011.gif">
+  <img align="right" alt="gif_animate" width="35px" src="./src/config.gif">
     <details>
       <summary>:zap: see more...</summary>
 
@@ -58,7 +58,7 @@
 
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
-  <img align="right" alt="Rafa-yoda" src="./src/origin-1009.gif">
+  <img align="right" alt="gif_animate" width="35px" src="./src/uiglitch.gif">
     <details>
       <summary>:zap: see more...</summary>
 
@@ -75,6 +75,7 @@
 
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
+  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1011.gif">
     <details>
       <summary>:zap: see more...</summary>
 
@@ -86,6 +87,7 @@
 
     </details>
 - <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
+  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1009.gif">
     <details>
       <summary>:zap: see more...</summary>
 
@@ -105,6 +107,7 @@
 
     </details>
 - <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
+  <img align="right" alt="gif_animate" width="35px" src="./src/map.gif">
     <details>
       <summary>:zap: see more...</summary>
 
