@@ -28,7 +28,6 @@
 [<img align="left" alt="youtuberepo | YouTube Repo" width="40px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
 <br />
----
 
 ### 📺 Latest YouTube Videos
 
@@ -42,6 +41,15 @@
 
 
 ---
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mctechnology17's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mctechnology17&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
