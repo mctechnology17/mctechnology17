@@ -54,7 +54,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact)](https://github.com/mctechnology17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&theme=radical)](https://github.com/mctechnology17)
 
 
 ---
