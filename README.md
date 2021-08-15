@@ -14,9 +14,6 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
-<div align="right">
-### 📲 Connect with me:
-
 [<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
 [<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
@@ -26,7 +23,6 @@
 [<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
 [<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
-</div>
 
 <br />
 
