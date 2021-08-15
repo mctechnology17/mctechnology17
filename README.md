@@ -52,10 +52,6 @@
 
 <table>
 <tr>
-<th> MCtechnology's GitHub stats </th>
-<th> Top Langs </th>
-</tr>
-<tr>
 <td>
 
 [![MCtechnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical))](https://github.com/mctechnology17)
