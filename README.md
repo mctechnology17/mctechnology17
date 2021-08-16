@@ -3,21 +3,6 @@
   <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
 </div>
 
-<tr align="left">
-<td>
-
-<details>
-  <summary>:zap: About me!</summary>
-
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
-</details>
-</td>
-</tr>
-
 <tr align="right">
 <td>
 
@@ -33,6 +18,16 @@
 
 </td>
 </tr>
+
+<details>
+  <summary>:zap: About me!</summary>
+
+### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+- 🦾 I love the PowerLifting!
+- 🤓  I’m currently learning everything
+- 👾  I am very curious and that is why you start studying programming
+- 🗒  I am currently very obsected with learning vimscript
+</details>
 
 
 <br />
