@@ -54,13 +54,21 @@
     favorite text / code vim, vi, nvim, Gvim or MacVim.
 
   </details> </td>
-<h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
+</tr>
+<tr>
+<td>
+
+[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
+
+</td>
+<td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
     A small contribution to the Jailbreaker community
 
-  </details>
+  </details> </td>
+</tr>
 <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
   <details>
     <summary>see more...</summary>
