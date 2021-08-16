@@ -146,7 +146,6 @@
 
 </details>
 
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -162,6 +161,8 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 ---
+
+### 📈 GitHub Stats
 
 <div>
   <a href="https://github.com/mctechnology17">
