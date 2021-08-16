@@ -41,33 +41,35 @@
   <summary>:zap: Click here to see my latest projects</summary>
 
 <tr>
-<td>
+  <tr>
+  <td>
 
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
+  [<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
 
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
+  </td>
+  <td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
+    <details>
+      <summary>see more...</summary>
 
-    VimTools is a tool to complement your editor
-    favorite text / code vim, vi, nvim, Gvim or MacVim.
+      VimTools is a tool to complement your editor
+      favorite text / code vim, vi, nvim, Gvim or MacVim.
 
-  </details> </td>
-</tr>
-<tr>
-<td>
+    </details> </td>
+  </tr>
+  <tr>
+  <td>
 
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
+  [<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
 
-</td>
-<td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
+  </td>
+  <td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
+    <details>
+      <summary>see more...</summary>
 
-    A small contribution to the Jailbreaker community
+      A small contribution to the Jailbreaker community
 
-  </details> </td>
+    </details> </td>
+  </tr>
 </tr>
 <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
   <details>
