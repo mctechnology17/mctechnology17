@@ -1,6 +1,7 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 <div align="center">
-  <br> <h1> Hi there, I'm Marcos - MC Technology 👋 </h1>
+  <br> <h1> Hi there, I'm Marcos - MC Technology </h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </div>
 
 <table align="right">
