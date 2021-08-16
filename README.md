@@ -46,7 +46,7 @@
 [<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
 </td>
-<img align="right" alt=yomero" src="./src/hola.PNG">
+<img align="right" alt=yomero" src="./src/pokemon.GIF">
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
