@@ -94,13 +94,15 @@
   </details>
 <div>
 <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
-<details>
-  <summary>see more...</summary>
+<h4
+  <details>
+    <summary>see more...</summary>
 
-  A nice repository to share my knowledge and help the development community on
-  youtube with what I have learned so far. Contributions are also very welcome :D
+    A nice repository to share my knowledge and help the development community on
+    youtube with what I have learned so far. Contributions are also very welcome :D
 
-</details>
+  </details>
+</h4>
 </div>
 
 </details>
