@@ -40,13 +40,13 @@
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
 
-<img align="right" alt=yomero" src="./src/hola.PNG">
 <tr>
 <td>
 
 [<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
 </td>
+<img align="right" alt=yomero" src="./src/hola.PNG">
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
