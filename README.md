@@ -40,81 +40,66 @@
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
 
-- <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1000.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+<h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      `vimtools` is a tool to complement your editor
-      favorite text / code `vim, vi, nvim, Gvim or MacVim`.
+    VimTools is a tool to complement your editor
+    favorite text / code vim, vi, nvim, Gvim or MacVim.
 
-    </details>
-- <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/config.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+  </details>
+<h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      A small contribution to the Jailbreaker community
+    A small contribution to the Jailbreaker community
 
-    </details>
-- <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/uiglitch.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+  </details>
+<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      UI Glitch is here!!!
-      Give your iPhone a different look with UI Glitch. The UI family by MC Technology! Designed for UI lovers!
-      Tired of the themes not changing all the icons?
-      With UI Glitch you can get an exquisite combination to complement your themes! Modify icons (Urban‘s Style), folders, notification and more!
-      Give it a unique and modern look
-      It works in dark and light mode!
-      More than 20 Shades with different degrees of opacity and colors!
-      Compatibility with thousands of themes!
-      Dock effects and more Deco for icons coming soon (I'm already working on the)!
-      Includes an exclusive animated theme!
+    UI Glitch is here!!!
+    Give your iPhone a different look with UI Glitch.
+    The UI family by MC Technology! Designed for UI lovers!
+    With UI Glitch you can get an exquisite combination to complement your themes!
+    More than 20 Shades with different degrees of opacity and colors!
+    Compatibility with thousands of themes!
+    Includes an exclusive animated theme!
 
-    </details>
-- <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1011.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+  </details>
+<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      UI Switches
-      Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-      How to use UI Switches?
-      Install Snowboard and Snowboard UI extension from Spark’s repo. Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
-      Or use iThemer or Anemone for activation
+    UI Switches
+    Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
+    How to use UI Switches?
+    Install Snowboard and Snowboard UI extension from Spark’s repo.
+    Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
+    Or use iThemer or Anemone for activation
 
-    </details>
-- <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/origin-1009.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+  </details>
+<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      UI Badge + Badgemoji
-      Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
-      How to use UI Badge and Badgemoji?
-      Install Snowboard and Snowboard UI extension for the UI function from Spark’s repo.
-      Then activate the Badges from the Snowboard settings and enjoy :D !
-      Or use iThemer or Anemone for activation!
-      **For Dock funtions install Snowboard extension and activate from the Snowboard settings
-      Conflict:
-      HomePlus Beta
-      HomePlus Pro
-      Solution:
-      Uninstall HomePlus Pro / Beta Uninstall UI Badge, Install UI Badge Now, Snowboard Activate and Respring.
-      Now install HomePlus Pro / Beta. The problem has to be solved.
+    UI Badge + Badgemoji
+    Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
+    How to use UI Badge and Badgemoji?
+    Install Snowboard and Snowboard UI extension for the UI function from Spark’s repo.
+    Then activate the Badges from the Snowboard settings and enjoy :D !
+    Or use iThemer or Anemone for activation!
 
-    </details>
-- <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
-  <img align="right" alt="gif_animate" width="35px" src="./src/map.gif">
-    <details>
-      <summary>:zap: see more...</summary>
+  </details>
+<h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
-      A nice repository to share my knowledge and help the development community on
-      youtube with what I have learned so far. Contributions are also very welcome :D
+    A nice repository to share my knowledge and help the development community on
+    youtube with what I have learned so far. Contributions are also very welcome :D
 
-    </details>
+  </details>
 
 </details>
 
