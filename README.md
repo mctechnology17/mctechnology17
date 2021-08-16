@@ -51,8 +51,10 @@
   <details>
     <summary>see more...</summary>
 
-    A nice repository to share my knowledge and help the development community on
-    youtube with what I have learned so far. Contributions are also very welcome :D
+    A nice repository to share my knowledge
+    and help the development community on
+    youtube with what I have learned so far.
+    Contributions are also very welcome :D !
 
   </details> </td>
 </tr>
@@ -100,8 +102,7 @@
     The UI family by MC Technology! Designed for UI lovers!
     With UI Glitch you can get an exquisite combination to complement your themes!
     More than 20 Shades with different degrees of opacity and colors!
-    Compatibility with thousands of themes!
-    Includes an exclusive animated theme!
+    Compatibility with thousands of themes!  Includes an exclusive animated theme!
 
   </details> </td>
 </tr>
@@ -117,8 +118,7 @@
 
     UI Switches
     Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-    How to use UI Switches?
-    Install Snowboard and Snowboard UI extension from Spark’s repo.
+    How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
     Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
     Or use iThemer or Anemone for activation
 
@@ -138,8 +138,7 @@
     Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
     How to use UI Badge and Badgemoji?
     Install Snowboard and Snowboard UI extension for the UI function from Spark’s repo.
-    Then activate the Badges from the Snowboard settings and enjoy :D !
-    Or use iThemer or Anemone for activation!
+    Then activate the Badges from the Snowboard settings and enjoy :D! Or use iThemer or Anemone for activation!
 
   </details> </td>
 </tr>
