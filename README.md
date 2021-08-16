@@ -40,7 +40,6 @@
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
 
-<div>
 <tr>
 <td>
 
@@ -71,7 +70,6 @@
 
   </details> </td>
 </tr>
-</div>
 <tr>
 <td>
 
