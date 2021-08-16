@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
 
-<h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
+| <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -48,14 +48,14 @@
     favorite text / code vim, vi, nvim, Gvim or MacVim.
 
   </details>
-<h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
+| <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
     A small contribution to the Jailbreaker community
 
   </details>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
+| <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -68,7 +68,7 @@
     Includes an exclusive animated theme!
 
   </details>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
+| <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -80,7 +80,7 @@
     Or use iThemer or Anemone for activation
 
   </details>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
+| <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -92,18 +92,14 @@
     Or use iThemer or Anemone for activation!
 
   </details>
-<div>
-<h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
-<h4
+| <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
     A nice repository to share my knowledge and help the development community on
     youtube with what I have learned so far. Contributions are also very welcome :D
 
-  </details>
-</h4>
-</div>
+  </details> |
 
 </details>
 
