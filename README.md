@@ -84,7 +84,13 @@
 
   </details> </td>
 </tr>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
+<tr>
+<td>
+
+[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
+
+</td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -96,8 +102,15 @@
     Compatibility with thousands of themes!
     Includes an exclusive animated theme!
 
-  </details>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
+  </details> </td>
+</tr>
+<tr>
+<td>
+
+[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
+
+</td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -108,8 +121,15 @@
     Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
     Or use iThemer or Anemone for activation
 
-  </details>
-<h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
+  </details> </td>
+</tr>
+<tr>
+<td>
+
+[<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge]
+
+</td>
+<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
@@ -120,7 +140,8 @@
     Then activate the Badges from the Snowboard settings and enjoy :D !
     Or use iThemer or Anemone for activation!
 
-  </details>
+  </details> </td>
+</tr>
 
 </details>
 
