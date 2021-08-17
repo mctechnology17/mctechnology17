@@ -166,7 +166,7 @@
 
 ---
 
-<h3 align="left">Latest <img src="./src/youtube.gif" width="70px" height="35px"> Videos</h3>
+<h3 align="left">Latest <img src="./src/youtube.gif" width="70px" height="25px"> Videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
