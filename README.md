@@ -36,15 +36,6 @@
 
 ### 📕 Latest Projects
 
-<tr>
-<td>
-
-[<img align="left" alt="youtuberepo | YouTube Repo" width="70px" height="25px" src="./src/click2.gif" />][youtuberepo]
-
-</td>
-</tr>
-
-
 <details>
   <summary>:zap: Click here to see my latest projects</summary>
 
