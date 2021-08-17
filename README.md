@@ -154,7 +154,6 @@
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/> </a>
