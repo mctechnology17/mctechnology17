@@ -67,7 +67,7 @@
   <details>
     <summary>see more...</summary>
 
-    VimTools is a tool to complement your editor
+    VimTools is a plugin to complement your editor
     favorite text / code vim, vi, nvim, Gvim or MacVim.
 
   </details> </td>
