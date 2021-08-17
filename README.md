@@ -166,7 +166,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<h3 align="left">📺 Latest <img src="./src/youtube2.gif" width="30px"> Videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
