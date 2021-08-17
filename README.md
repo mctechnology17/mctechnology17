@@ -37,7 +37,7 @@
 ### 📕 Latest Projects
 
 <details>
-  <summary>:zap: Click here to see my latest projects</summary>
+  <summary><h3><img src="./src/click2.gif" width="25px" height="25px"></h3></summary>
 
 <tr>
 <td>
