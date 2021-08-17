@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/cabeza.GIF" width="25px" height="25px"> Latest Projects</h3>
+<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
 
 <tr>
 <td>
