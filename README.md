@@ -36,9 +36,6 @@
 
 ### 📕 Latest Projects
 
-<details>
-  <summary>:zap: Click here to see my latest projects</summary>
-
 <tr>
 <td>
 
@@ -161,8 +158,6 @@
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 </p>
-
-</details>
 
 ---
 
