@@ -166,7 +166,7 @@
 
 ---
 
-<h3 align="left">📺 Latest <img src="./src/youtube2.gif" width="70px" height="25px"> Videos</h3>
+<h3 align="left"><img src="./src/youtube2.gif" width="70px" height="25px"> Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
@@ -180,7 +180,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/mctechnology17">
