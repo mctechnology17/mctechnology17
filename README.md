@@ -34,7 +34,6 @@
 
 ---
 
-<h3 align="center">📕 Latest Projects</h3>
 <h3 align="center"><img src="./src/origin-1000.gif" width="25px" height="25px"> Latest Projects</h3>
 
 <tr>
