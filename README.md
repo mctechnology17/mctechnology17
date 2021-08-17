@@ -34,7 +34,7 @@
 
 ---
 
-### 📕 Latest Projects
+<h3 align="center">📕 Latest Projects</h3>
 
 <tr>
 <td>
@@ -139,7 +139,7 @@
   </details> </td>
 </tr>
 
-<h3 align="center">🚀 Languages and Tools:</h3>
+<h3 align="center">🚀 Languages and Tools</h3>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
