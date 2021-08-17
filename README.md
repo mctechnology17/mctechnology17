@@ -37,7 +37,7 @@
 ### 📕 Latest Projects
 
 <details>
-  <summary><h3><img src="./src/click2.gif" width="25px" height="25px"></h3></summary>
+  <summary>:zap: [<img align="left" alt="youtuberepo | YouTube Repo" width="70px" height="25px" src="./src/click2.gif" />][youtuberepo]</summary>
 
 <tr>
 <td>
