@@ -6,14 +6,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
 [<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
 [<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
-[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
-[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
 
 </td>
@@ -187,14 +183,10 @@
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
-[website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
 [instagram]: https://www.instagram.com/mctechnology17/
-[twitch]: https://www.twitch.tv/mctechnology17
-[tiktok]: https://www.tiktok.com/@mctechnology17
 [facebook]: https://m.facebook.com/mctechnology17/
-[telegram]: https://t.me/mctechnology
 [reddit]:https://www.reddit.com/user/mctechnology17
 
 [vimtools]: https://github.com/mctechnology17/vimtools
