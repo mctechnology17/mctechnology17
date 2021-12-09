@@ -119,18 +119,15 @@
 <tr>
 <td>
 
-[<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge]
+[<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/github.png" />][git_manager]
 
 </td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/git_manager" target="_blank"><code>UI Badge</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    UI Badge + Badgemoji
-    Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
-    How to use UI Badge and Badgemoji?
-    Install Snowboard and Snowboard UI extension for the UI function from Spark’s repo.
-    Then activate the Badges from the Snowboard settings and enjoy :D! Or use iThemer or Anemone for activation!
+    `git_manager` is a assistant multi platform which can be combined
+    with your `zsh/bash/fish/powershell` or with your editor `vim/vi/nvim/Gvim/MacVim`.
 
   </details> </td>
 </tr>
@@ -193,5 +190,5 @@
 [jailbreakrepo]: https://mctechnology17.github.io/
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[uibadge]: https://repo.packix.com/package/com.mctechnology.uibadge/
+[git_manager]: https://github.com/mctechnology17/git_manager
 [youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
