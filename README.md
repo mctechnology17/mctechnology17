@@ -35,6 +35,21 @@
 <tr>
 <td>
 
+[<img align="left" alt="git_manager | Git Manager" width="50px" src="./src/github.png" />][git_manager]
+
+</td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/git_manager" target="_blank"><code>Git Manager</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
+
+    `git_manager` is a assistant multi platform which can be combined
+    with your `zsh/bash/fish/powershell` or with your editor `vim/vi/nvim/Gvim/MacVim`.
+
+  </details> </td>
+</tr>
+<tr>
+<td>
+
 [<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
 
 </td>
@@ -113,21 +128,6 @@
     How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
     Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
     Or use iThemer or Anemone for activation
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="git_manager | Git Manager" width="50px" src="./src/github.png" />][git_manager]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/git_manager" target="_blank"><code>Git Manager</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    `git_manager` is a assistant multi platform which can be combined
-    with your `zsh/bash/fish/powershell` or with your editor `vim/vi/nvim/Gvim/MacVim`.
 
   </details> </td>
 </tr>
