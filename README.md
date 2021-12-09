@@ -1,4 +1,4 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 
 <h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
 
@@ -184,7 +184,7 @@
 
 
 [twitter]: https://twitter.com/mctechnology17
-[youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
+[youtube]: https://www.youtube.com/c/mctechnology17
 [instagram]: https://www.instagram.com/mctechnology17/
 [facebook]: https://m.facebook.com/mctechnology17/
 [reddit]:https://www.reddit.com/user/mctechnology17
