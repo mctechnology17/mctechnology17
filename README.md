@@ -35,7 +35,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="git_manager | Git Manager" width="50px" src="./src/github.png" />][git_manager]
+[<img align="left" alt="git_manager | Git Manager" width="50px" src="./src/git_logo.png" />][git_manager]
 
 </td>
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/git_manager" target="_blank"><code>Git Manager</code></a> </h4>
