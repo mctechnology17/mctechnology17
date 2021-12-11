@@ -42,8 +42,8 @@
   <details>
     <summary>see more...</summary>
 
-    `GitManager` is a assistant multi platform which can be combined
-    with your `zsh/bash/fish/powershell` or with your editor `vim/vi/nvim/Gvim/MacVim`.
+    GitManager is a assistant multi platform which can be combined
+    with your zsh/bash/fish/powershell or with your editor vim/vi/nvim/Gvim/MacVim.
 
   </details> </td>
 </tr>
