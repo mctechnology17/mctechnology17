@@ -35,14 +35,14 @@
 <tr>
 <td>
 
-[<img align="left" alt="git_manager | Git Manager" width="50px" src="./src/git_logo.png" />][git_manager]
+[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/git_manager" target="_blank"><code>Git Manager</code></a> </h4>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    `git_manager` is a assistant multi platform which can be combined
+    `GitManager` is a assistant multi platform which can be combined
     with your `zsh/bash/fish/powershell` or with your editor `vim/vi/nvim/Gvim/MacVim`.
 
   </details> </td>
@@ -190,5 +190,5 @@
 [jailbreakrepo]: https://mctechnology17.github.io/
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[git_manager]: https://github.com/mctechnology17/git_manager
+[gm]: https://github.com/mctechnology17/gm
 [youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
