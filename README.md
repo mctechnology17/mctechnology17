@@ -149,11 +149,11 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Como crear un perfil de GitHub como un pro &lpar;Readme&rpar; | MC Technology](https://www.youtube.com/watch?v=D5PjhcH36Vc)
 - [Cómo instalar Windows 11 en VirtualBox | MC Technology](https://www.youtube.com/watch?v=J05qz-O4LLg)
 - [Como usar Git con GitManager | MC Technology](https://www.youtube.com/watch?v=vs5CvLQFYhg)
 - [Como crear un vimrc en MacOS y Linux | MC Technology](https://www.youtube.com/watch?v=wm9kbvhw-uI)
 - [Como crear tu primer VIMRC para windows  | MC Technology](https://www.youtube.com/watch?v=UvkH-IyQzFI)
-- [Como configurar Vim como VS Code | MC Technology](https://www.youtube.com/watch?v=UjrXySb2T-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
