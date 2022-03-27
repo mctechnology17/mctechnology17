@@ -50,7 +50,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
+<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />
 
 </td>
 <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
