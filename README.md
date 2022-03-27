@@ -182,4 +182,4 @@
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
 [gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: [github mctechnology17 youtube_repo_mc_technology](https://github.com/mctechnology17/youtube_repo_mc_technology)
+[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
