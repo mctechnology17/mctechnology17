@@ -83,20 +83,6 @@
 <tr>
 <td>
 
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
-
-</td>
-<td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    A small contribution to the Jailbreaker community
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
 [<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
 
 </td>
@@ -196,4 +182,4 @@
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
 [gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
+[youtuberepo]: [github mctechnology17 youtube_repo_mc_technology](https://github.com/mctechnology17/youtube_repo_mc_technology)
