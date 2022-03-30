@@ -42,26 +42,23 @@
   <details>
     <summary>see more...</summary>
 
-    GitManager is a assistant multi platform which can be combined
-    with your zsh/bash/fish/powershell or with your editor vim/vi/nvim/Gvim/MacVim.
+    GitManager(gm) git manager with a friendly user interface
+    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
 
   </details> </td>
 </tr>
 <tr>
 <td>
 
-<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />
+<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
 <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    A nice repository to share my knowledge
-    and help the development community on
-    youtube with what I have learned so far.
-    Contributions are also very welcome :D !
+    vim-better-header is a better automated template
 
   </details> </td>
 </tr>
@@ -75,8 +72,8 @@
   <details>
     <summary>see more...</summary>
 
-    VimTools is a plugin to complement your editor
-    favorite text / code vim, vi, nvim, Gvim or MacVim.
+    VimTools is functions and settings
+    that will make it easy for you life
 
   </details> </td>
 </tr>
