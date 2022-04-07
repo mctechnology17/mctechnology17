@@ -146,7 +146,7 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Widgets para MacOS | MC Tecnology](https://www.youtube.com/watch?v=2gs1R3nEtH4)
+- [Widgets en MacOS | MC Technology](https://www.youtube.com/watch?v=GLbsM1-rZno)
 - [Como crear un perfil de GitHub como un pro &lpar;Readme&rpar; | MC Technology](https://www.youtube.com/watch?v=D5PjhcH36Vc)
 - [Cómo instalar Windows 11 en VirtualBox | MC Technology](https://www.youtube.com/watch?v=J05qz-O4LLg)
 - [Como usar Git con GitManager | MC Technology](https://www.youtube.com/watch?v=vs5CvLQFYhg)
