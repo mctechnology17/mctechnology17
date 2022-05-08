@@ -42,7 +42,7 @@
   <details>
     <summary>see more...</summary>
 
-    GitManager(gm) git manager with a friendly user interface
+    A manager for GIT multi platform.
     Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
 
   </details> </td>
@@ -58,7 +58,7 @@
   <details>
     <summary>see more...</summary>
 
-    vim-better-header is a better automated template
+    A better automated template header for vim
 
   </details> </td>
 </tr>
@@ -167,6 +167,9 @@
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="A9ZCHSS5K6SS8" />
+<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/c/mctechnology17
