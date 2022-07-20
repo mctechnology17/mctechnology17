@@ -146,11 +146,11 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Descargar videos y audios de YouTube GRATIS a full calidad | MC Technology](https://www.youtube.com/watch?v=knbxj5W5lIk)
 - [Ejecuta y depura código en VIM con SOLO 1 click + multiterminales | MC Technology](https://www.youtube.com/watch?v=uba3mR7RNhg)
 - [Depurando en VIM con vimspector | MC Technology](https://www.youtube.com/watch?v=wIU6Roqmljs)
 - [Widgets en MacOS | MC Technology](https://www.youtube.com/watch?v=GLbsM1-rZno)
 - [Como crear un perfil de GitHub como un pro &lpar;Readme&rpar; | MC Technology](https://www.youtube.com/watch?v=D5PjhcH36Vc)
+- [Cómo instalar Windows 11 en VirtualBox | MC Technology](https://www.youtube.com/watch?v=J05qz-O4LLg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
