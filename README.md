@@ -146,7 +146,7 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [corne keyboard full wireless nice!nano tutorial &lpar;guia facil&rpar; | MC Technology](https://www.youtube.com/watch?v=YVi7ROevBAI)
+- [corne keyboard full wireless nicenano tutorial &lpar;guia facil&rpar; | MC Technology](https://www.youtube.com/watch?v=YVi7ROevBAI)
 - [Ejecuta y depura código en VIM con SOLO 1 click + multiterminales | MC Technology](https://www.youtube.com/watch?v=uba3mR7RNhg)
 - [Depurando en VIM con vimspector | MC Technology](https://www.youtube.com/watch?v=wIU6Roqmljs)
 - [Widgets en MacOS | MC Technology](https://www.youtube.com/watch?v=GLbsM1-rZno)
