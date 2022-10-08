@@ -146,11 +146,11 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Teclado corne animaciones pantalla OLED con QMK &lpar;bongocat, luna, crab, ocean-dream&rpar; | MC Technology](https://www.youtube.com/watch?v=_dswDmpqY0A)
+- [Teclado corne animaciones pantalla OLED con QMK &lpar;bongocat, luna, crab, ocean-dream&rpar; | MC Technology](https://www.youtube.com/watch?v=w9Z_ODrKhvQ)
 - [corne keyboard full wireless nicenano tutorial &lpar;guia facil&rpar; | MC Technology](https://www.youtube.com/watch?v=YVi7ROevBAI)
 - [Ejecuta y depura código en VIM con SOLO 1 click + multiterminales | MC Technology](https://www.youtube.com/watch?v=uba3mR7RNhg)
 - [Depurando en VIM con vimspector | MC Technology](https://www.youtube.com/watch?v=wIU6Roqmljs)
-- [Widgets en MacOS | MC Technology](https://www.youtube.com/watch?v=GLbsM1-rZno)
-- [Como crear un perfil de GitHub como un pro &lpar;Readme&rpar; | MC Technology](https://www.youtube.com/watch?v=D5PjhcH36Vc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
