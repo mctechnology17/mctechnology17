@@ -147,7 +147,7 @@
 
 <!-- YOUTUBE:START -->
 - [corne keyboard animaciones con QMK &lpar;bongocat, luna, crab, ocean-dream&rpar; | MC Technology](https://www.youtube.com/watch?v=_dswDmpqY0A)
-- [corne keyboard animaciones con QMK &lpar;bongocat, luna, crab, ocean-dream&rpar; | MC Technology](https://www.youtube.com/watch?v=w9Z_ODrKhvQ)
+- [corne keyboard animaciones para teclado custom con QMK &lpar;bongocat y mas ...&rpar; | MC Technology](https://www.youtube.com/watch?v=w9Z_ODrKhvQ)
 - [corne keyboard full wireless nicenano tutorial &lpar;guia facil&rpar; | MC Technology](https://www.youtube.com/watch?v=YVi7ROevBAI)
 - [Ejecuta y depura código en VIM con SOLO 1 click + multiterminales | MC Technology](https://www.youtube.com/watch?v=uba3mR7RNhg)
 - [Depurando en VIM con vimspector | MC Technology](https://www.youtube.com/watch?v=wIU6Roqmljs)
