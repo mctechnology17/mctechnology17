@@ -80,37 +80,29 @@
 <tr>
 <td>
 
-[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
+[<img align="left" alt="zmk | zmk-config" width="50px" src="./src/zmk_icon.jpg" />][zmk-config]
 
 </td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/zmk-config/" target="_blank"><code>zmk-config</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    UI Glitch is here!!!
-    Give your iPhone a different look with UI Glitch.
-    The UI family by MC Technology! Designed for UI lovers!
-    With UI Glitch you can get an exquisite combination to complement your themes!
-    More than 20 Shades with different degrees of opacity and colors!
-    Compatibility with thousands of themes!  Includes an exclusive animated theme!
+    This repository contains my personal configuration of my corne keyboard with
+    zmk software, flashing on nice!nano v2 microcontroller.
 
   </details> </td>
 </tr>
 <tr>
 <td>
 
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
+[<img align="left" alt="qmk | qmk-config" width="50px" src="./src/qmk_icon.png" />][qmk-config]
 
 </td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/qmk-config/" target="_blank"><code>qmk-config</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    UI Switches
-    Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-    How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
-    Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
-    Or use iThemer or Anemone for activation
+    Personal QMK firmware configuration for my corne keyboards
 
   </details> </td>
 </tr>
@@ -185,7 +177,7 @@
 
 [vimtools]: https://github.com/mctechnology17/vimtools
 [jailbreakrepo]: https://mctechnology17.github.io/
-[uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
-[uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
+[zmk-config]: https://github.com/mctechnology17/zmk-config/
+[qmk-config]: https://github.com/mctechnology17/qmk-config/
 [gm]: https://github.com/mctechnology17/gm
 [youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
