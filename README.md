@@ -38,29 +38,16 @@
 [<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    A manager for GIT multi platform.
-    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
-
-  </details> </td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
 
-<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
+<img align="right" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
 <!-- <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF"> -->
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    A better automated template header for vim
-
-  </details> </td>
+<td> <h4 align="right"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
@@ -68,29 +55,15 @@
 [<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    VimTools is functions and settings
-    that will make it easy for you life
-
-  </details> </td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
 
-[<img align="left" alt="zmk | zmk-config" width="50px" src="./src/zmk_icon.jpg" />][zmk-config]
+[<img align="right" alt="zmk | zmk-config" width="50px" src="./src/zmk_icon.jpg" />][zmk-config]
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/zmk-config/" target="_blank"><code>zmk-config</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    This repository contains my personal configuration of my corne keyboard with
-    zmk software, flashing on nice!nano v2 microcontroller.
-
-  </details> </td>
+<td> <h4 align="right"> <a href="https://github.com/mctechnology17/zmk-config/" target="_blank"><code>zmk-config</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
@@ -98,13 +71,7 @@
 [<img align="left" alt="qmk | qmk-config" width="50px" src="./src/qmk_icon.png" />][qmk-config]
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/qmk-config/" target="_blank"><code>qmk-config</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    Personal QMK firmware configuration for my corne keyboards
-
-  </details> </td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/qmk-config/" target="_blank"><code>qmk-config</code></a> </h4> </td>
 </tr>
 
 <br />
@@ -180,4 +147,5 @@
 [zmk-config]: https://github.com/mctechnology17/zmk-config/
 [qmk-config]: https://github.com/mctechnology17/qmk-config/
 [gm]: https://github.com/mctechnology17/gm
+[executor]: https://github.com/mctechnology17/vim-executor
 [youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
