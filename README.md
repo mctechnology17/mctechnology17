@@ -27,13 +27,13 @@
 - 🧾 [vim-better-header] – Automated, clean file headers
 - ▶️ [vim-executor] – Multi-language code executor
 
-> Tipp: Klicke auf die Projektnamen, um direkt zu den Repos zu springen.
+> Tipp: Click on the project names to jump directly to the repos.
 
 ---
 
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 
-Tippe »make run« in Gedanken – der Output steht im Code ;)
+Execute `make run` in your thoughts to see the exit of the code ;)
 
 ```c
 /* =======================================================
