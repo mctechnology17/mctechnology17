@@ -6,6 +6,9 @@ vim-tools_notiz.vim
 .vimspector.json
 push.sh
 
+examples/
+backup/
+
 # c, cpp
 *.x
 *.d
