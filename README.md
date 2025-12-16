@@ -1,14 +1,3 @@
-- 🔭 [zmk-nice-oled] – Vertical widgets for OLED & MiP-LCD screens using ZMK (split & non-split)
-- 🖥️ [zmk-dongle-display-view] – Horizontal widgets for OLED & MiP-LCD screens, ready-made widgets
-- 🧩 [zmk-oled-adapter] – Adapter for OLEDs in ZMK without modifying keyboard shields
-- 🧰 [zmk-config] – Quickly and easily configure your wireless Corne / Sofle / Lily58 keyboard with ZMK.
-- ⚙️ [qmk-config] – Quickly and easily configure your keyboard using QMK
-- 👤 [qmk_userspace] – QMK USER SPACE for keyboards
-- 🛠️ [vimtools] – Swiss-army knife for Vim (features & settings to speed you up)
-- 🌲 [gm] – Cross-platform Git manager with a friendly UI
-- 🧾 [vim-better-header] – Automated, clean file headers
-- ▶️ [vim-executor] – Multi-language code executor
-
 [zmk-config]: https://github.com/mctechnology17/zmk-config
 [zmk-dongle-display-view]: https://github.com/mctechnology17/zmk-dongle-display-view
 [zmk-oled-adapter]: https://github.com/mctechnology17/zmk-oled-adapter
